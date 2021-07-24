@@ -27,8 +27,8 @@ I have built 3 directories in server
 4.index.js file contains the main boiler plate code for server.
 
 CLIENT : it is the react app , the folder structure id simple and welll organized ,
-1. i have userd redux(to make a local store),
-2. 2. cores(to make api request),
+1. I have userd redux(to make a local store),
+2. axios(to make api request),
 3. Bootstrap and single CSS file for Styling.
   Directories inside src
   1.Actions : contains all the functions that makes request to the server.
